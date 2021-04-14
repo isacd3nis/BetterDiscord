@@ -1574,21 +1574,7 @@ html:not(.app-focused) .typeWindows-1za-n7 .winButton-iRh8-Z.winButtonMinMax-PBQ
  *	CHAT AREA
  *
  */
-.chat-3bRxxu,
-.threadSidebar-1o3BTy {
-  background-color: var(--chat-color); }
 
-.content-MLh4nU {
-  background: var(--chat-color); }
-
-.wrapper-3vR61M,
-.wrapper-1F5TKx {
-  background-color: transparent; }
-
-.attachment-2p5mHK,
-.avatar-2daVqv,
-.blob-2w7iIK {
-  background-color: #fff; }
 
 /* CHAT AREA -> MESSAGES */
 .messagesWrapper-1sRNjr.group-spacing-0 .groupStart-23k01U {
